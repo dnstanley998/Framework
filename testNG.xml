@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="stepDefs">
+    <test name="stepDefs">
+        <classes>
+            <class name="stepDefs.loginTestStepDef" />
+        </classes>
+    </test>
+
+</suite>
